@@ -1,0 +1,15 @@
+{"question": "How many paid vacation days does a full-time employee get per year?", "expected_source": "vacation-policy.md", "must_contain": ["26"]}
+{"question": "Until when can I use vacation days carried over from last year?", "expected_source": "vacation-policy.md", "must_contain": ["31 March"]}
+{"question": "Do I need a medical certificate if I'm sick for one day?", "expected_source": "vacation-policy.md", "must_contain": ["first day"]}
+{"question": "How many extra weeks of paid leave does a new parent get?", "expected_source": "vacation-policy.md", "must_contain": ["2"]}
+{"question": "What is the minimum password length?", "expected_source": "it-security.md", "must_contain": ["14"]}
+{"question": "My laptop was stolen. What should I do and how fast?", "expected_source": "it-security.md", "must_contain": ["1 hour"]}
+{"question": "Can I paste client data into ChatGPT?", "expected_source": "it-security.md", "must_contain": ["approved"]}
+{"question": "How long is the probation period?", "expected_source": "onboarding.md", "must_contain": ["3 months"]}
+{"question": "What are the core working hours?", "expected_source": "onboarding.md", "must_contain": ["10:00"]}
+{"question": "How much is the yearly learning budget?", "expected_source": "onboarding.md", "must_contain": ["4,000"]}
+{"question": "Can I work from Spain for a few weeks?", "expected_source": "onboarding.md", "must_contain": ["30 days"]}
+{"question": "Which tags are required on cloud resources?", "expected_source": "cloud-cost-guidelines.md", "must_contain": ["owner"]}
+{"question": "What auto-termination should interactive Databricks clusters have?", "expected_source": "cloud-cost-guidelines.md", "must_contain": ["30 minutes"]}
+{"question": "What is the monthly LLM usage limit per project?", "expected_source": "cloud-cost-guidelines.md", "must_contain": ["500"]}
+{"question": "What is the company's stock ticker symbol?", "expected_source": null, "must_contain": []}
